@@ -1,3 +1,8 @@
+## CampusOnHand
+**CampusOnHand** is a web-based portal designed to streamline student-faculty interaction in colleges. It allows students to view faculty profiles, knowledge domains, and weekly timetables, helping them identify free slots and communicate professionally. Faculty can receive messages via their college email and update schedules manually.
+
+**Built with Gemini AI Studio assistance.**
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
@@ -15,9 +20,6 @@ View your app in AI Studio: https://ai.studio/apps/drive/1czhs6EHpc6ZFGXmbHwKgmD
 3. Run the app:
    `npm run dev`
 =======
-# CampusOnHand
-
-**CampusOnHand** is a web-based portal designed to streamline student-faculty interaction in colleges. It allows students to view faculty profiles, knowledge domains, and weekly timetables, helping them identify free slots and communicate professionally. Faculty can receive messages via their college email and update schedules manually.
 
 ## Features
 
